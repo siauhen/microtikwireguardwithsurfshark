@@ -3,6 +3,7 @@ Creating Surfshark VPN with Wireguard in Microtik
 
 # Connection Flow
 
+```text
       CLIENT                                            SERVER
         |                                                 |
 1. Key Generation:                                        |
